@@ -1,0 +1,15 @@
+C:\Users\dell\source\repos\InicializacionDeUnCarrito\InicializacionDeUnCarrito\obj\Debug\net6.0\InicializacionDeUnCarrito.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\InicializacionDeUnCarrito\InicializacionDeUnCarrito\obj\Debug\net6.0\InicializacionDeUnCarrito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\InicializacionDeUnCarrito\InicializacionDeUnCarrito\obj\Debug\net6.0\InicializacionDeUnCarrito.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\InicializacionDeUnCarrito\InicializacionDeUnCarrito\obj\Debug\net6.0\InicializacionDeUnCarrito.AssemblyInfo.cs
+C:\Users\dell\source\repos\InicializacionDeUnCarrito\InicializacionDeUnCarrito\obj\Debug\net6.0\InicializacionDeUnCarrito.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\InicializacionDeUnCarrito\InicializacionDeUnCarrito\bin\Debug\net6.0\InicializacionDeUnCarrito.exe
+C:\Users\dell\source\repos\InicializacionDeUnCarrito\InicializacionDeUnCarrito\bin\Debug\net6.0\InicializacionDeUnCarrito.deps.json
+C:\Users\dell\source\repos\InicializacionDeUnCarrito\InicializacionDeUnCarrito\bin\Debug\net6.0\InicializacionDeUnCarrito.runtimeconfig.json
+C:\Users\dell\source\repos\InicializacionDeUnCarrito\InicializacionDeUnCarrito\bin\Debug\net6.0\InicializacionDeUnCarrito.dll
+C:\Users\dell\source\repos\InicializacionDeUnCarrito\InicializacionDeUnCarrito\bin\Debug\net6.0\InicializacionDeUnCarrito.pdb
+C:\Users\dell\source\repos\InicializacionDeUnCarrito\InicializacionDeUnCarrito\obj\Debug\net6.0\InicializacionDeUnCarrito.dll
+C:\Users\dell\source\repos\InicializacionDeUnCarrito\InicializacionDeUnCarrito\obj\Debug\net6.0\refint\InicializacionDeUnCarrito.dll
+C:\Users\dell\source\repos\InicializacionDeUnCarrito\InicializacionDeUnCarrito\obj\Debug\net6.0\InicializacionDeUnCarrito.pdb
+C:\Users\dell\source\repos\InicializacionDeUnCarrito\InicializacionDeUnCarrito\obj\Debug\net6.0\InicializacionDeUnCarrito.genruntimeconfig.cache
+C:\Users\dell\source\repos\InicializacionDeUnCarrito\InicializacionDeUnCarrito\obj\Debug\net6.0\ref\InicializacionDeUnCarrito.dll
